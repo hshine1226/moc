@@ -11,3 +11,5 @@
 - [Wolfgang Amadeus Mozart(볼프강 아마데우스 모차르트)](https://github.com/hshine1226/moc/blob/main/mozart.md)
 
 - [Johannes Brahms(요하네스 브람스)](https://github.com/hshine1226/moc/blob/main/brahms.md)
+
+- [Fryderyk Franciszek Chopin(프레데리크 쇼팽)](https://github.com/hshine1226/moc/blob/main/chopin.md)
