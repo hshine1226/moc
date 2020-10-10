@@ -12,4 +12,6 @@
 
 - [Johannes Brahms(요하네스 브람스)](https://github.com/hshine1226/moc/blob/main/brahms.md)
 
+- [Pietro Mascagni(피에트로 마스카니)](https://github.com/hshine1226/moc/blob/main/mascagni.md)
+
 - [Fryderyk Franciszek Chopin(프레데리크 쇼팽)](https://github.com/hshine1226/moc/blob/main/chopin.md)
