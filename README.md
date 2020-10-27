@@ -33,3 +33,9 @@
 - [Dmitri Dmitriyevich Shostakovich(드미트리 쇼스타코비치)](https://github.com/hshine1226/moc/blob/main/shostakovich.md)
 
 - [Wilhelm Richard Wagner(빌헬름 리하르트 바그너)](https://github.com/hshine1226/moc/blob/main/wagner.md)
+
+- [Ivan Jevtic(이반 제브틱)](https://github.com/hshine1226/moc/blob/main/jevtic.md)
+
+- [Gustav Holst(구스타브 홀스트)](https://github.com/hshine1226/moc/blob/main/holst.md)
+
+- [Edward Elgar(에드워드 엘가)](https://github.com/hshine1226/moc/blob/main/elgar.md)
