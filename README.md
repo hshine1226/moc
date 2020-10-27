@@ -6,36 +6,36 @@
 
 ## 작곡가별 추천 클래식 보기
 
-- [Pyotr Ilyich Tchaikovsky(표트르 일리치 차이콥스키)](https://github.com/hshine1226/moc/blob/main/thcaikovsky.md)
+- [Pyotr Ilyich Tchaikovsky(표트르 일리치 차이콥스키)](https://github.com/hshine1226/moc/blob/main/composers/thcaikovsky.md)
 
-- [Wolfgang Amadeus Mozart(볼프강 아마데우스 모차르트)](https://github.com/hshine1226/moc/blob/main/mozart.md)
+- [Wolfgang Amadeus Mozart(볼프강 아마데우스 모차르트)](https://github.com/hshine1226/moc/blob/main/composers/mozart.md)
 
-- [Johannes Brahms(요하네스 브람스)](https://github.com/hshine1226/moc/blob/main/brahms.md)
+- [Johannes Brahms(요하네스 브람스)](https://github.com/hshine1226/moc/blob/main/composers/brahms.md)
 
-- [Pietro Mascagni(피에트로 마스카니)](https://github.com/hshine1226/moc/blob/main/mascagni.md)
+- [Pietro Mascagni(피에트로 마스카니)](https://github.com/hshine1226/moc/blob/main/composers/mascagni.md)
 
-- [Fryderyk Franciszek Chopin(프레데리크 쇼팽)](https://github.com/hshine1226/moc/blob/main/chopin.md)
+- [Fryderyk Franciszek Chopin(프레데리크 쇼팽)](https://github.com/hshine1226/moc/blob/main/composers/chopin.md)
 
-- [루트비히 판 베토벤(독일어: Ludwig van Beethoven)](https://github.com/hshine1226/moc/blob/main/beethoven.md)
+- [루트비히 판 베토벤(독일어: Ludwig van Beethoven)](https://github.com/hshine1226/moc/blob/main/composers/beethoven.md)
 
-- [Antonín Leopold Dvořák(안토닌 레오폴트 드보르자크)](https://github.com/hshine1226/moc/blob/main/dvorak.md)
+- [Antonín Leopold Dvořák(안토닌 레오폴트 드보르자크)](https://github.com/hshine1226/moc/blob/main/composers/dvorak.md)
 
-- [George Gershwin(조지 거슈윈)](https://github.com/hshine1226/moc/blob/main/gershwin.md)
+- [George Gershwin(조지 거슈윈)](https://github.com/hshine1226/moc/blob/main/composers/gershwin.md)
 
-- [Franz Joseph Haydn(요제프 하이든)](https://github.com/hshine1226/moc/blob/main/haydn.md)
+- [Franz Joseph Haydn(요제프 하이든)](https://github.com/hshine1226/moc/blob/main/composers/haydn.md)
 
-- [Felix Mendelssohn(펠릭스 멘델스존)](https://github.com/hshine1226/moc/blob/main/mendelssohn.md)
+- [Felix Mendelssohn(펠릭스 멘델스존)](https://github.com/hshine1226/moc/blob/main/composers/mendelssohn.md)
 
-- [Modest Petrovich Mussorgsky(모데스트 무소륵스키)](https://github.com/hshine1226/moc/blob/main/mussorgsky.md)
+- [Modest Petrovich Mussorgsky(모데스트 무소륵스키)](https://github.com/hshine1226/moc/blob/main/composers/mussorgsky.md)
 
-- [Nikolai Rimsky-Korsakov(니콜라이 안드레예비치 림스키코르사코프)](https://github.com/hshine1226/moc/blob/main/rimsky.md)
+- [Nikolai Rimsky-Korsakov(니콜라이 안드레예비치 림스키코르사코프)](https://github.com/hshine1226/moc/blob/main/composers/rimsky.md)
 
-- [Dmitri Dmitriyevich Shostakovich(드미트리 쇼스타코비치)](https://github.com/hshine1226/moc/blob/main/shostakovich.md)
+- [Dmitri Dmitriyevich Shostakovich(드미트리 쇼스타코비치)](https://github.com/hshine1226/moc/blob/main/composers/shostakovich.md)
 
-- [Wilhelm Richard Wagner(빌헬름 리하르트 바그너)](https://github.com/hshine1226/moc/blob/main/wagner.md)
+- [Wilhelm Richard Wagner(빌헬름 리하르트 바그너)](https://github.com/hshine1226/moc/blob/main/composers/wagner.md)
 
-- [Ivan Jevtic(이반 제브틱)](https://github.com/hshine1226/moc/blob/main/jevtic.md)
+- [Ivan Jevtic(이반 제브틱)](https://github.com/hshine1226/moc/blob/main/composers/jevtic.md)
 
-- [Gustav Holst(구스타브 홀스트)](https://github.com/hshine1226/moc/blob/main/holst.md)
+- [Gustav Holst(구스타브 홀스트)](https://github.com/hshine1226/moc/blob/main/composers/holst.md)
 
-- [Edward Elgar(에드워드 엘가)](https://github.com/hshine1226/moc/blob/main/elgar.md)
+- [Edward Elgar(에드워드 엘가)](https://github.com/hshine1226/moc/blob/main/composers/elgar.md)
