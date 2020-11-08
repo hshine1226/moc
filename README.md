@@ -39,3 +39,5 @@
 - [Gustav Holst(구스타브 홀스트)](https://github.com/hshine1226/moc/blob/main/composers/holst.md)
 
 - [Edward Elgar(에드워드 엘가)](https://github.com/hshine1226/moc/blob/main/composers/elgar.md)
+
+- [Gilles Rocha(질로차)](https://github.com/hshine1226/moc/blob/main/composers/rocha.md)
