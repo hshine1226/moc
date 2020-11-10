@@ -43,3 +43,15 @@
 - [Gilles Rocha(질로차)](https://github.com/hshine1226/moc/blob/main/composers/rocha.md)
 
 - [Gustav Mahler(구스타프 말러)](https://github.com/hshine1226/moc/blob/main/composers/mahler.md)
+
+- [Edvard Hagerup Grieg(에드바르 하게루프 그리그)](https://github.com/hshine1226/moc/blob/main/composers/grieg.md)
+
+- [Sergei Vasil'evich Rachmaninov(세르게이 바실리예비치 라흐마니노프)](https://github.com/hshine1226/moc/blob/main/composers/rachmaninov.md)
+
+- [Borodin(보로딘)](https://github.com/hshine1226/moc/blob/main/composers/borodin.md)
+
+- [Richard Strauss(리하르트 슈트라우스)](https://github.com/hshine1226/moc/blob/main/composers/strauss.md)
+
+- [Antonio Salieri(안토니오 살리에리)](https://github.com/hshine1226/moc/blob/main/composers/salieri.md)
+
+- [Gregorio Allegri(그레고리오 알레그리)](https://github.com/hshine1226/moc/blob/main/composers/allegri.md)
