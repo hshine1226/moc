@@ -55,3 +55,5 @@
 - [Antonio Salieri(안토니오 살리에리)](https://github.com/hshine1226/moc/blob/main/composers/salieri.md)
 
 - [Gregorio Allegri(그레고리오 알레그리)](https://github.com/hshine1226/moc/blob/main/composers/allegri.md)
+
+- [Bedrich smetana(베드르지흐 스메나타)](https://github.com/hshine1226/moc/blob/main/composers/smetana.md)
