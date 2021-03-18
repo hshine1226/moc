@@ -59,3 +59,7 @@
 - [Bedrich smetana(베드르지흐 스메나타)](https://github.com/hshine1226/moc/blob/main/composers/smetana.md)
 
 - [Nebojsa Jovan Zivkovic(네보이사 조반 지브코비치)](https://github.com/hshine1226/moc/blob/main/composers/zivkovic.md)
+
+- [Eric Sammut(에릭 사무트)](https://github.com/hshine1226/moc/blob/main/composers/sammut.md)
+
+- [Pablo de Sarasate(사라사테)](https://github.com/hshine1226/moc/blob/main/composers/sarasate.md)
