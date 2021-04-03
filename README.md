@@ -63,3 +63,5 @@
 - [Eric Sammut(에릭 사무트)](https://github.com/hshine1226/moc/blob/main/composers/sammut.md)
 
 - [Pablo de Sarasate(사라사테)](https://github.com/hshine1226/moc/blob/main/composers/sarasate.md)
+
+- [Johann Sebastian Bach(바흐)](https://github.com/hshine1226/moc/blob/main/composers/bach.md)
