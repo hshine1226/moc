@@ -65,3 +65,5 @@
 - [Pablo de Sarasate(사라사테)](https://github.com/hshine1226/moc/blob/main/composers/sarasate.md)
 
 - [Johann Sebastian Bach(바흐)](https://github.com/hshine1226/moc/blob/main/composers/bach.md)
+
+- [Georges Bizet(조르주 비제)](https://github.com/hshine1226/moc/blob/main/composers/bizet.md)
